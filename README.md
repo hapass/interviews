@@ -1,0 +1,5 @@
+# Resume
+
+Here I try to write up my resume according to funny and awesome [tips](http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html) from Steve Yegge. They might be outdated, but make perfect sense to me.
+
+[Click here to see the resume.](RESUME.txt)
