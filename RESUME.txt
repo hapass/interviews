@@ -89,4 +89,3 @@ Developer, Playtika, 2016 - Current
         * Reviewed code and got reviewed.
         * Optimized network performance of the game.
         * Fixed resource leak issues.
-
