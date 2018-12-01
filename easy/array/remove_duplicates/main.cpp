@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int removeDuplicates(vector<int>& numbers) {
+int remove_duplicates(vector<int>& numbers) {
     if(numbers.size() == 0) {
         return 0;
     }
@@ -25,7 +25,7 @@ int removeDuplicates(vector<int>& numbers) {
 }
 
 void test(vector<int>& numbers) {
-    auto total = removeDuplicates(numbers);
+    auto total = remove_duplicates(numbers);
 
     for(int i = 0; i < numbers.size(); i++) {
         cout << numbers[i];
