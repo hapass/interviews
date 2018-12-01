@@ -9,12 +9,16 @@ int remove_duplicates(vector<int>& numbers) {
     }
 
     int swap_index = 0;
+
+    //mistake: this variable is redundant
     int last_number = numbers[0];
 
     for(int index = 0; index < numbers.size(); index++) {
         if(numbers[index] != last_number) {
             last_number = numbers[index];
             swap_index++;
+
+            //mistake: we can do a simple copy instead of swap
             auto temp = numbers[index];
             numbers[index] = numbers[swap_index];
             numbers[swap_index] = temp;
