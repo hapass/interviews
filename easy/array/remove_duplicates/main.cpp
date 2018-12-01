@@ -4,6 +4,10 @@
 using namespace std;
 
 int removeDuplicates(vector<int>& numbers) {
+    if(numbers.size() == 0) {
+        return 0;
+    }
+
     int swap_index = 0;
     int last_number = numbers[0];
 
@@ -45,5 +49,8 @@ int main() {
 
     vector<int> one_value_vector = { 0 };
     test(one_value_vector);
+
+    vector<int> empty_value_vector = {};
+    test(empty_value_vector);
 }
 
