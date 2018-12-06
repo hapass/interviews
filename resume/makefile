@@ -1,2 +1,2 @@
-spell-check:
+all:
 	@bash ./spell_check.sh
