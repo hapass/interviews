@@ -12,11 +12,12 @@ Developer, Playtika, 2016 - Current
     Less so: Groovy, Gradle, OCaml, Python, Javascript, Typescript, Angular
     Preface:
         Playtika has in-house game engine that is written in C# and works for all platforms except web.
-        They made a clone of their engine in Haxe, that runs on web in flash and html5 forms.
-        Haxe team had even more wild concept, that they could compile Haxe to C# (compiler supports that), and run the compiled code with original game engine for all other platforms.
+        They made a clone of their engine in Haxe, that runs on web.
+        Haxe team wanted to compile Haxe to C# (compiler supports that).
+        And run the compiled code with C# version of game engine for mobile platforms.
         They hired me to write a POC for that, and test the approach on one of their new projects.
     Done:
-        * Implemented macros that adapted the interface of the C# engine, to Haxe version. First for test project, than for poker heat.
+        * Implemented macros that adapted the interface of the C# engine to Haxe version.
         * Implemented facebook log-in for mobile versions of Poker Heat.
         * Implemented images caching for mobile version.
         * Implemented networking for mobile version.
@@ -27,8 +28,9 @@ Developer, Playtika, 2016 - Current
         * Implemented parts of build automation pipeline.
         * Integrated advertisement.
         * Implemented authentication system for Playtika's servers.
-        * Debugged new version of haxe compiler when it was freezing during compilation of our game, and found a workaround.
-        * Updated game engine for our game. Did temporary fixes for issues in new versions of the game engine and reported them back to the engine team.
+        * Debugged haxe compiler when it was freezing during poker compilation, and found a workaround.
+        * Updated game engine for our game. 
+        * Did temporary fixes for issues in new versions of the game engine and reported them.
         * Investigated and fixed spikes in ANRs and crashes on production.
         * Covered with tests, and stabilized the implementation of Mega Bonus feature.
         * Reviewed code and got reviewed.
@@ -62,21 +64,21 @@ Projects:
     Done:
         * Implemented upload of user's files to dropbox.
         * Implemented complex forms for saving and editing user's personal information.
-        * Implemented complex logic for scheduling user's meetings with coaches. Lots of tricky timezone caveats.
+        * Implemented complex logic for scheduling user's meetings with coaches.
         * Implemented authentication, authorization.
         * Implemented admin page.
-        * Married parts of the project that were written in JQuery and AngularJS.
+        * Married parts of the project that were written using JQuery and AngularJS.
         * Deployed the project to production.
         * Did most of the client communication.
         * Covered critical parts of the application with tests. Both frontend and backend.
-        * Passed on the project to next generation of developers.
+        * Passed the project to next generation of developers.
     
     Paperfree Clarity.
     Description: dashboard for monitoring OCR system parameters.
     Used intensively: C#, Javascript, KnockoutJS, HTML, CSS, SignalR
     Used less so: WCF
     Done:
-        * Implemented dashboard for real time widgets, monitoring server load status of OCR system.
+        * Implemented dashboard for real time widgets.
         * Implemented widgets themselves with backend for monitoring file system stats.
         * Covered frontend with unit tests.
 
@@ -85,9 +87,7 @@ Projects:
     Used intensively: GruntJS, AngularJS, Javascript, HTML, CSS
     Done:
         * Implemented a solution for web-view based presentation slider component in short time.
-          Previous developer didn't deliver, and he was replaced by me close to the deadline.
-          The slider component integrated with web-view into iOS and Android app.
-        * Implemented automated build pipeline, that compressed zipped and uploaded the component to the server.
+        * Implemented automated build pipeline for the component.
 
 Education.
 
