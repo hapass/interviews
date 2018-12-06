@@ -1,0 +1,7 @@
+addons:
+  apt:
+    packages:
+      - aspell
+      - aspell-en
+before_script: cd resume
+script: make

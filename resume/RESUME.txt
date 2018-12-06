@@ -1,0 +1,96 @@
+Career.
+
+Developer, Playtika, 2016 - Current
+    Poker Heat.
+    Description: casual poker game.
+    Used intensively: Haxe, C#, Async-await, TPL, Xamarin, Autofac, In-house game engine
+    Less so: Groovy, Gradle, OCaml, Python, Javascript, Typescript, Angular
+    Preface:
+        Playtika has in-house game engine that is written in C# and works for all platforms except web.
+        They made a clone of their engine in Haxe, that runs on web in flash and html5 forms.
+        Haxe team had even more wild concept, that they could compile Haxe to C# (compiler supports that), and run the compiled code with original game engine for all other platforms.
+        They hired me to write a POC for that, and test the approach on one of their new projects.
+    Done:
+        * Implemented macros that adapted the interface of the C# engine, to Haxe version. First for test project, than for poker heat.
+        * Implemented facebook login for mobile versions of Poker Heat.
+        * Implemented images caching for mobile version.
+        * Implemented networking for mobile version.
+        * Integrated analytics in the game.
+        * Integrated crash tracking.
+        * Implemented payments for almost all platforms.
+        * Fixed critical gameplay issues specific to mobile.
+        * Implemented parts of build automation pipeline.
+        * Integrated advertisement.
+        * Implemented authentication system for Playtika's servers.
+        * Debugged new version of haxe compiler when it was freezing during compilation of our game, and found a workaround.
+        * Updated game engine for our game. Did temporary fixes for issues in new versions of the game engine and reported them back to the engine team.
+        * Investigated and fixed spikes in ANRs and crashes on production.
+        * Covered with tests, and stabilized the implementation of Mega Bonus feature.
+        * Reviewed code and got reviewed.
+        * Optimized network performance of the game.
+        * Fixed resource leak issues.
+
+Developer, Synesis, 2015 - 2016
+
+Projects:
+    Wild Ride and Viber Rude Rider.
+    Description: multi-platform 2D race and shoot game with 2 different UI skins.
+    Used intensively: C#, .NET, Xamarin, TPL, Async-await, Autofac, In-house game engine
+    Less so: Box2D
+    Done:
+        * Integrated authentication with Viber.
+        * Integrated in-house analytics.
+        * Integrated Google's and Apple's achievements and score boards.
+        * Fixed issues with payment systems integration.
+        * Integrated Unity Ads.
+        * Fixed magnet booster physics issues.
+        * Fixed issues related to misuse of concurrency.
+        * Implemented parts of tutorial system.
+        * Implemented personal offers and in-app popup system.
+
+Developer, Itransition, 2012 - 2015
+
+Projects:
+    Building Champions Client Portal.
+    Description: portal for communication between people and their life coaches.
+    Used intensively: C#, ASP.NET MVC, EF, MS SQL Server, HTML, CSS, Javascript, AngularJS, JQuery, Jasmine
+    Done:
+        * Implemented upload of user's files to dropbox.
+        * Implemented complex forms for saving and editing user's personal information.
+        * Implemented complex logic for scheduling user's meetings with coaches. Lots of tricky timezone caveats.
+        * Implemented authentication, authorization.
+        * Implemented admin page.
+        * Married parts of the project that were written in JQuery and AngularJS.
+        * Deployed the project to production.
+        * Did most of the client communication.
+        * Covered critical parts of the application with tests. Both frontend and backend.
+        * Passed on the project to next generation of developers.
+    
+    Paperfree Clarity.
+    Description: dashboard for monitoring OCR system parameters.
+    Used intensively: C#, Javascript, KnockoutJS, HTML, CSS, SignalR
+    Used less so: WCF
+    Done:
+        * Implemented dashboard for real time widgets, monitoring server load status of OCR system.
+        * Implemented widgets themselves with backend for monitoring file system stats.
+        * Covered frontend with unit tests.
+
+    Zaryadye Park.
+    Description: mobile app with overview of Zaryadye Park.
+    Used intensively: GruntJS, AngularJS, Javascript, HTML, CSS
+    Done:
+        * Implemented a solution for web-view based presentation slider component in short time.
+          Previous developer didn't deliver, and he was replaced by me close to the deadline.
+          The slider component integrated with web-view into iOS and Android app.
+        * Implemented automated build pipeline, that compressed zipped and uploaded the component to the server.
+
+Education.
+
+Computer Science, BSUIR, 2009 - 2014
+    Used intensively: C#, .NET, XNA, Monogame
+    Less so: C, C++, Scala
+
+    More or less notable complete projects:
+        C: simple http server.
+        C++: DES, RSA cipher implementation.
+        C#, .NET, XNA: 2D space shooter game.
