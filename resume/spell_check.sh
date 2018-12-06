@@ -13,7 +13,7 @@ if [[ $? != 0 ]]; then
     exit 1
 elif [[ $output ]]; then
     echo "${red}Aspell found spelling errors.${reset}"
-    echo "${yellow}$output${reset}"
+    echo "$output"
     exit 1
 else
     echo "${green}Aspell check passed.${reset}"
