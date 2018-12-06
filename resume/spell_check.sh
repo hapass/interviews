@@ -9,7 +9,6 @@ output="$(cat RESUME.txt | aspell list --encoding=ascii --lang=en --personal=./.
 
 if [[ $? != 0 ]]; then
     echo "${red}Aspell returned error.${reset}"
-    echo "$output" | sort -u
     exit 1
 elif [[ $output ]]; then
     echo "${red}Aspell found spelling errors.${reset}"
