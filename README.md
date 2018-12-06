@@ -1,6 +1,6 @@
 # Interviews
 
-[![Spell check](https://travis-ci.com/hapass/algorithms.svg?branch=master)](https://travis-ci.com/hapass/algorithms)
+[![Spell Check](https://travis-ci.com/hapass/interviews.svg?branch=master)](https://travis-ci.com/hapass/interviews)
 
 I try to code up interview questions from [leetcode](https://leetcode.com)
 
