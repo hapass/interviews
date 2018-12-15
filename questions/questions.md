@@ -58,7 +58,7 @@ Main language: C#.
 
 ## Computer architecture
 
-1. Binary operations. Xor, or, and, left shift, right shift..
+1. Binary operations. Xor, or, and, left shift, right shift.
 1. Addition and subtraction of binary representations. Representing negative numbers.
 1. Floating point number representation IEEE 754.
 1. Powers of 2.
