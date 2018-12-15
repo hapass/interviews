@@ -62,6 +62,7 @@ Main language: C#.
 1. Addition and subtraction of binary representations. Representing negative numbers.
 1. Floating point number representation IEEE 754.
 1. Powers of 2.
+1. Converting between binary, octal and hex.
 1. Virtual memory.
 
 ## C# programming language and .NET platform
