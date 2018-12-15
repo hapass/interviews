@@ -91,16 +91,15 @@ Main language: C#.
 1. Passing arguments and returning values by reference or by value. Out, ref, in keywords.
 1. Enumerable and enumerator. Yield keyword.
 
-## Design patterns
+## Object oriented design
 
-1. Creational patterns.
-1. Structural patterns.
-1. Behavioral patterns.
-
-## SOLID
-
+1. Inheritance. Polymorphism. Encapsulation.
+1. Abstraction. Composition. Aggregation.
 1. Single responsibility principle.
 1. Open-closed principle.
 1. Liskov substitution principle.
 1. Interface segregation principle.
 1. Dependency inversion principle.
+1. Creational patterns.
+1. Structural patterns.
+1. Behavioral patterns.
