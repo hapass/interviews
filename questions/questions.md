@@ -22,7 +22,7 @@ Main language: C#.
 
 ## Algorithms
 
-1. Stack. Queue.
+1. Stack. Queue. Linked list.
 1. Bubble sort. Selection sort. Insertion sort. Shell sort.
 1. Merge sort. Quick sort.
 1. Heaps. Fibonacci heaps.
