@@ -8,7 +8,7 @@ Main language: C#.
 1. Cross product. Pseudo-vectors. Dot product. Applications.
 1. Matrix multiplication. Inverse matrix. Transposed matrix. Applications.
 1. Scale. Translation matrices.
-1. Rotation. Rotation matrixes. Problems.
+1. Rotation matrices. Problems.
 1. Complex numbers. Quaternions.
 1. Transforming coordinate systems. Change of basis.
 1. Linear interpolation. Rotational interpolation. Spherical interpolation.
