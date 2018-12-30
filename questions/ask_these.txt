@@ -1,42 +1,42 @@
 Tech:
-1. Когда у проекта deadline?
-1. Как вы контролируете количество фич поступающих в проект, чтобы убедится что релиз когда-то наступит?
-1. Почему unreal engine? Какие альтернативы рассматривались?
-1. Какие технологии используются на сервере? Почему?
-1. Допустим я выхожу на работу сегодня, какую задачу помимо настройки environment-а я получу?
-1. Опишите процесс разработки фичи от идеи до тестирования.
-1. Какие инструменты я буду использовать для разработки? Могу ли я работать на mac?
-1. Где вы работали до этого, какие плюсы и минусы видите у этой компании по сравнению с предыдущей?
-1. Смогу ли я работать над проектом из дома на выходных?
-1. Как часто бывают овертаймы? Ожидаются ли сильные овертаймы близко к релизу проекта?
-1. Приведите пример задач которые приходится решать самому технически-сильному человеку на проекте?
-1. Проводятся ли код ревью? Кто ревьювит код? Есть ли кто-то чей код не ревьювится? Может ли код попасть в мастер без ревью?
-1. Как проводится код ревью blueprints?
-1. Опишите высокоуровневую архитектуру вашего проекта на unreal?
-1. Буду ли я с вами пересекаться по работе?
-1. Как unreal менеджит память?
-1. Кто придумывает фичи?
-1. Как происходит playtesting?
-1. Планируется ли открывать проект для бета тестирования?
-1. Как финансируется проект? Как он будет PR-ится?
-1. Автоматизирован ли процесс сборки проекта?
-1. Пишете ли вы тесты?
-1. Под какие платформы будет проходить релиз?
-1. Можете ли показать игру?
-1. Как я узнаю что я плохо/хорошо работаю? Кто принимает это решение?
-1. Сможете ли вы предоставить сложившееся мнение обо мне по результатам интервью, с советами для работы над собой. Сможете ли это сделать прямо сейчас, или только через HR?
+1. When is the deadline?
+1. How do you control the amount of features coming in, to make sure there will be a release after all?
+1. Why do you use technologies you use?
+1. Which technologies do you use on the server side?
+1. What will be my first task on the project?
+1. Describe the feature development lifecycle in detail.
+1. Which instruments will I use in development?
+1. Where did you work before and why do you like it more here?
+1. Can I work from home?
+1. Do you have overtimes and do you pay for them?
+1. What is the most technically interesting issue you faced on the project?
+1. Do you practice code reviews?
+1. Do you have people that push code without reviews?
+1. Describe high level architecture of the project.
+1. Will I work with you on the project?
+1. Insert one hard techincal question to interviewer.
+1. Do you do ux/play testing?
+1. Do you use beta testing?
+1. How is the project financed?
+1. Can you build the project with one command?
+1. Do you write tests?
+1. Which platforms does your application target?
+1. Can you show the product?
+1. How do I get a feedback about my work?
+1. Can you give me a full opinion about me as a programmer right now?
 
 HR:
-1. Смогу ли я подать резюме на эту же вакансию через пол года?
-1. Есть ли +1 на корпоративах.
-1. Как построена система развития сотрудников? Постановка целей/вознаграждение?
-1. Есть ли официальный механизм получения фидбека о моей работе от моих коллег?
-1. Покупает ли компания книги сотрудникам? Существует ли библиотека?
-1. Есть ли парковка для велосипедов поблизости?
-1. Где я могу поесть поблизости?
-1. Оплачиваются ли овертаймы?
-1. Как часто проводятся 1:1 митинги с менеджером/HR?
-1. Нужно ли логировать время?
-1. Есть ли медицинская страховка, как она работает?
-1. На сколько заключается контракт? Какой испытательный срок?
-1. Какие минусы есть у вашей компании?
+1. Can I apply for the same position in a year?
+1. Is there a plus one for corporate parties?
+1. How does the performance review system work?
+1. Is there an official workflow to get the feedback from my colleagues?
+1. Do you buy books for programmers?
+1. Do you have a parking spot for a bicycle?
+1. Where can I eat?
+1. Do you pay for overtimes?
+1. How often do you hold one on ones with HR?
+1. Do I log my work time here?
+1. Do you have medical insurance?
+1. What is the length of the contract?
+1. Which negative moments can you say about the company?
+1. Is the office quite?
