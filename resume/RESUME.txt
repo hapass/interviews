@@ -14,7 +14,7 @@ Developer, Playtika, 2016 - Current
     Done:
         * Implemented logging system. Sending logs to log server.
         * Implemented authentication and session validation for new version of Playtika's services.
-        * Fixed issues with request cancelation in the engine.
+        * Fixed issues with request cancellation in the engine.
         * Automated builds for QA with Teamcity.
 
     Poker Heat.
