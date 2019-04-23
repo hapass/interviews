@@ -2,12 +2,22 @@ Pavel Zavoiskikh
     Phone: +375333830439
     Skype: hapass2
     Email: hapass@ya.ru
+    Github: https://github.com/hapass
 
 Career.
 
 Developer, Playtika, 2016 - Current
+    Solitaire Grand Harvest.
+    Description: casual solitaire game, daily active users: 1.3M.
+    Used intensively: C++, Murl game engine.
+    Less so: Shell, Gradle.
+    Done:
+        * Implemented logging system. Sending logs to log server.
+        * Implemented authentication and session validation for new version of Playtika's services.
+        * Automated builds for QA with Teamcity.
+
     Poker Heat.
-    Description: casual poker game.
+    Description: casual poker game, daily active users: 150K.
     Used intensively: Haxe, C#, Async-await, TPL, Xamarin, Autofac, In-house game engine
     Less so: Groovy, Gradle, OCaml, Python, Javascript, Typescript, Angular
     Preface:
@@ -41,7 +51,7 @@ Developer, Synesis, 2015 - 2016
 
 Projects:
     Wild Ride and Viber Rude Rider.
-    Description: multi-platform 2D race and shoot game with 2 different UI skins.
+    Description: multi-platform 2D race and shoot game with 2 different UI skins, daily active users: 15K.
     Used intensively: C#, .NET, Xamarin, TPL, Async-await, Autofac, In-house game engine
     Less so: Box2D
     Done:
