@@ -20,6 +20,7 @@ Developer, Playtika, 2016 - 2019
         * Implemented editor for personal offer popups.
         * Integrated Playtika's messaging service to receive messages from server on the client.
         * Implemented new UI for configurable in-game shop.
+        * Interviewed C++ developers for Solitaire.
 
     Poker Heat.
     Description: casual poker game, daily active users: 150K.
