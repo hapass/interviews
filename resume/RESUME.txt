@@ -6,9 +6,9 @@ Pavel Zavoiskikh
 
 Career.
 
-Developer, Playtika, 2016 - Current
+Developer, Playtika, 2016 - 2019
     Solitaire Grand Harvest.
-    Description: casual solitaire game, daily active users: 1.3M.
+    Description: casual solitaire game, daily active users: 1.6M.
     Used intensively: C++, Murl game engine.
     Less so: Shell, Gradle.
     Done:
@@ -16,6 +16,10 @@ Developer, Playtika, 2016 - Current
         * Implemented authentication and session validation for new version of Playtika's services.
         * Fixed issues with request cancellation in the engine.
         * Automated builds for QA with Teamcity.
+        * Implemented UI for Playtika's personal offer system.
+        * Implemented editor for personal offer popups.
+        * Integrated Playtika's messaging service to receive messages from server on the client.
+        * Implemented new UI for configurable in-game shop.
 
     Poker Heat.
     Description: casual poker game, daily active users: 150K.
