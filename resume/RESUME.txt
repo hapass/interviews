@@ -6,7 +6,7 @@ Pavel Zavoiskikh
 
 Career.
 
-Developer, Playtika, 2016 - 2019
+Developer, Playtika, 2016 - 2020
     Solitaire Grand Harvest.
     Description: casual solitaire game, daily active users: 1.6M.
     Used intensively: C++, Murl game engine.
