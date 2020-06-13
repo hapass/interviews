@@ -1,12 +1,25 @@
 Pavel Zavoiskikh
     Phone: +375333830439
-    Skype: hapass2
     Email: hapass@ya.ru
     Github: https://github.com/hapass
+    Medium: https://medium.com/@hapass
 
 Career.
 
+Contributor, Defold Foundation, 2020
+
+    Defold.
+    Description: 2D game engine for web and mobile.
+    Used intensively: C++.
+    Less so: Clojure, Java, Python.
+    Preface:
+        Once the engine got open-sourced in may I started contributing full time.
+    Done:
+        * Small bug fixes. Can be seen on github.
+
 Developer, Playtika, 2016 - 2020
+
+Projects:
     Solitaire Grand Harvest.
     Description: casual solitaire game, daily active users: 1.6M.
     Used intensively: C++, Murl game engine.
@@ -119,3 +132,5 @@ Computer Science, BSUIR, 2009 - 2014
 Free time.
 
 Writing code on github: https://github.com/hapass
+Writing blog on medium: https://medium.com/@hapass
+Learning stuff on coursera: https://www.coursera.org/user/a6e5df5240aa9826c158a7d1c76e0e9f
