@@ -13,7 +13,7 @@ Contributor, Defold Foundation, 2020
     Used intensively: C++.
     Less so: Clojure, Java, Python.
     Preface:
-        Once the engine got open-sourced in may I started contributing full time.
+        Once the engine got open-sourced in may I started contributing.
     Done:
         * Small bug fixes. Can be seen on github.
 
