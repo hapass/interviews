@@ -1,8 +1,16 @@
 Pavel Zavoiskikh
-    Phone: +375333830439
+    Phone: +375333830439 (telegram)
     Email: hapass@ya.ru
     Github: https://github.com/hapass
     Medium: https://medium.com/@hapass
+
+Summary.
+
+Education: Bachelor's degree in Computer Science.
+Experience: 8 years of work experience (3 years of web development and 5 years in mobile game development).
+Main programming languages: C#, C++.
+English: B2.
+Dream company: Small company consisting of professionals creating technically challenging games with finite set of features.
 
 Career.
 
