@@ -30,8 +30,8 @@ Developer, Playtika, 2016 - 2020
 Projects:
     Solitaire Grand Harvest.
     Description: casual solitaire game, daily active users: 1.6M.
-    Used intensively: C++, Murl game engine.
-    Less so: Shell, Gradle.
+    Used intensively: C++, Murl game engine
+    Less so: Shell, Gradle, Java, Objective C
     Done:
         * Implemented logging system. Sending logs to log server.
         * Implemented authentication and session validation for new version of Playtika's services.
@@ -130,7 +130,7 @@ Education.
 
 Computer Science, BSUIR, 2009 - 2014
     Used intensively: C#, .NET, XNA, Monogame
-    Less so: C, C++, Scala
+    Less so: C, C++, Scala, Java
 
     More or less notable complete projects:
         C: simple http server.
