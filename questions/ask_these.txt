@@ -1,20 +1,17 @@
 Tech:
-1. When is the deadline?
-1. How do you control the amount of features coming in, to make sure there will be a release after all?
+1. What is the release lifecycle. Does the project have deadlines?
+1. Describe the feature development lifecycle in detail.
+1. How do you control the amount of features coming in before release?
 1. Why do you use technologies you use?
 1. Which technologies do you use on the server side?
 1. What will be my first task on the project?
-1. Describe the feature development lifecycle in detail.
 1. Which instruments will I use in development?
 1. Where did you work before and why do you like it more here?
-1. Can I work from home?
 1. Do you have overtimes and do you pay for them?
 1. What is the most technically interesting issue you faced on the project?
-1. Do you practice code reviews?
-1. Do you have people that push code without reviews?
+1. Do you practice code reviews? Do you have special people that can push code without reviews?
 1. Describe high level architecture of the project.
 1. Will I work with you on the project?
-1. Insert one hard techincal question to interviewer.
 1. Do you do ux/play testing?
 1. Do you use beta testing?
 1. How is the project financed?
@@ -22,15 +19,10 @@ Tech:
 1. Do you write tests?
 1. Which platforms does your application target?
 1. Can you show the product?
-1. How do I get a feedback about my work?
-1. Can you give me a full opinion about me as a programmer right now?
 
 HR:
 1. Can I apply for the same position in a year?
-1. Is there a plus one for corporate parties?
 1. How does the performance review system work?
-1. Is there an official workflow to get the feedback from my colleagues?
-1. Do you buy books for programmers?
 1. Do you have a parking spot for a bicycle?
 1. Where can I eat?
 1. Do you pay for overtimes?
