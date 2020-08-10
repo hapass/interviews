@@ -21,6 +21,7 @@ Tech:
 1. Can you show the product?
 
 HR:
+1. How large is the company?
 1. Can I apply for the same position in a year?
 1. How does the performance review system work?
 1. Do you have a parking spot for a bicycle?
@@ -32,3 +33,27 @@ HR:
 1. What is the length of the contract?
 1. Which negative moments can you say about the company?
 1. Is the office quite?
+
+Company score. Each criteria is one point.
+1. Size < 100.
+1. Challenging project.
+1. All projects has one release with minimum support.
+1. Project is a game I want to play or game engine I want to use.
+1. Experienced team.
+1. Nice team.
+1. Good financing.
+1. Owns the product.
+1. Is not in Belarus.
+1. Good pay.
+
+Scores of companies I sent resume to.
+
+Playdead: 10
+Ubisoft: 8
+Press Fire Games: 7
+Wargaming: 7
+Vizor: 7
+Globant: 6
+Mapbox: 6
+Melesta: 5
+Banuba: 4
