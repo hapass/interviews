@@ -67,7 +67,8 @@ Main languages: C#, C++.
 1. Cache coherency.
 1. SIMD.
 1. Instruction pipelines.
-1. Calling conventions. AS
+1. Calling conventions.
+1. ISA.
 
 ## C# programming language and .NET platform
 
