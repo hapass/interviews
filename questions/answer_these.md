@@ -124,6 +124,8 @@ Main languages: C#, C++.
 1. Move semantics. Copy elision and return value optimization.
 1. Deep copy vs shallow copy.
 1. Old way of passing endless parameters to a function without variadic templates.
+1. Union.
+1. Enum vs enum class.
 
 ## Systems design
 
