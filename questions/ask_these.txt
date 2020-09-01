@@ -34,7 +34,7 @@ HR:
 1. Which negative moments can you say about the company?
 1. Is the office quite?
 
-Company score. Each criteria is one point.
+Company score.
 1. Size < 100.
 1. Challenging project.
 1. All projects has one release with minimum support.
@@ -45,15 +45,3 @@ Company score. Each criteria is one point.
 1. Owns the product.
 1. Is not in Belarus.
 1. Good pay.
-
-Scores of companies I sent resume to.
-
-Playdead: 10
-Ubisoft: 8
-Press Fire Games: 7
-Wargaming: 7
-Vizor: 7
-Globant: 6
-Mapbox: 6
-Melesta: 5
-Banuba: 4
