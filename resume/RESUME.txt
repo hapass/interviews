@@ -7,16 +7,24 @@ Pavel Zavoiskikh
 Summary.
 
 Education: Bachelor's degree in Computer Science.
-Experience: 8 years of work experience (3 years of web development and 5 years in mobile game development).
+Experience: 9 years of work experience (3 years of web development and 6 years in mobile game development).
 Main programming languages: C#, C++.
 English: B2.
 Dream company: Small company consisting of professionals creating technically challenging games with finite set of features.
 
 Career.
 
-Contributor, Defold Foundation, 2020
+Developer, Ubisoft, 2020 - 2021
+    Description: AAA game development
+    Used intensively: C++, Anvil game engine
+    Less so: C#, proprietary UI tools
+    Done:
+        * Ownership of a Settings subsystem. Decided how our Settings should evolve, implemented critical improvements to the subsystem, planned and splitted tasks between team
+          members.
+        * Did some contributions to game's Benchmark.
+        * Contributed to game engine by implementing some missing features required by Settings scope.
 
-    Defold.
+Contributor, Defold Foundation, 2020
     Description: 2D game engine for web and mobile.
     Used intensively: C++.
     Less so: Clojure, Java, Python.
@@ -26,105 +34,36 @@ Contributor, Defold Foundation, 2020
         * Small bug fixes. Can be seen on github.
 
 Developer, Playtika, 2016 - 2020
-
-Projects:
-    Solitaire Grand Harvest.
-    Description: casual solitaire game, daily active users: 1.6M.
-    Used intensively: C++, Murl game engine
-    Less so: Shell, Gradle, Java, Objective C
+    Description: casual poker game, daily active users: 150K and casual solitaire game, daily active users: 1.6M.
+    Used intensively: C++, C#, Murl game engine, In-house game engine, Haxe, Xamarin, Autofac, 
+    Less so: Shell, Gradle, Java, Objective C, Groovy, OCaml, Python, Javascript, Typescript, Angular
     Done:
-        * Implemented logging system. Sending logs to log server.
-        * Implemented authentication and session validation for new version of Playtika's services.
-        * Fixed issues with request cancellation in the engine.
-        * Automated builds for QA with Teamcity.
-        * Implemented UI for Playtika's personal offer system.
-        * Implemented editor for personal offer popups.
-        * Integrated Playtika's messaging service to receive messages from server on the client.
-        * Implemented new UI for configurable in-game shop.
+        * Had to make a haxe game, that was written for web, run on mobile. The issue was solved and as a result the game basically shared 90% of the code on all the platforms,
+          which is the first time playtika was able to achieve this.
+        * Did a lot of integration for third-party SDKs for achievements, authentication, ads, payments.
+        * Did gameplay and UI programming.
+        * Implemented authentication, messaging, payment subsystems that abstracted game developers from using Playtika's back-end directly.
+        * Debugged haxe compiler when it was freezing during poker compilation, and found a workaround.
+        * Did game engine integrations and fixes to game engine required for our productions. Basically updating game engine and fixing issues during updates.
+        * Implemented in-game tools for marketing team to be able to construct popups the way they want to.
         * Interviewed C++ developers for Solitaire.
 
-    Poker Heat.
-    Description: casual poker game, daily active users: 150K.
-    Used intensively: Haxe, C#, Async-await, TPL, Xamarin, Autofac, In-house game engine
-    Less so: Groovy, Gradle, OCaml, Python, Javascript, Typescript, Angular
-    Preface:
-        Playtika has in-house game engine that is written in C# and works for all platforms except web.
-        They made a clone of their engine in Haxe, that runs on web.
-        Haxe team wanted to compile Haxe to C# (compiler supports that).
-        And run the compiled code with C# version of game engine for mobile platforms.
-        They hired me to write a POC for that, and test the approach on one of their new projects.
-    Done:
-        * Implemented macros that adapted the interface of the C# engine to Haxe version.
-        * Implemented facebook log-in for mobile versions of Poker Heat.
-        * Implemented images caching for mobile version.
-        * Implemented networking for mobile version.
-        * Integrated analytics in the game.
-        * Integrated crash tracking.
-        * Implemented payments for almost all platforms.
-        * Fixed critical gameplay issues specific to mobile.
-        * Implemented parts of build automation pipeline.
-        * Integrated advertisement.
-        * Implemented authentication system for Playtika's servers.
-        * Debugged haxe compiler when it was freezing during poker compilation, and found a workaround.
-        * Updated game engine for our game. 
-        * Did temporary fixes for issues in new versions of the game engine and reported them.
-        * Investigated and fixed spikes in ANRs and crashes on production.
-        * Covered with tests, and stabilized the implementation of Mega Bonus feature.
-        * Reviewed code and got reviewed.
-        * Optimized network performance of the game.
-        * Fixed resource leak issues.
-
 Developer, Synesis, 2015 - 2016
-
-Projects:
-    Wild Ride and Viber Rude Rider.
     Description: multi-platform 2D race and shoot game with 2 different UI skins, daily active users: 15K.
     Used intensively: C#, .NET, Xamarin, TPL, Async-await, Autofac, In-house game engine
     Less so: Box2D
     Done:
-        * Integrated authentication with Viber.
-        * Integrated in-house analytics.
-        * Integrated Google's and Apple's achievements and score boards.
-        * Fixed issues with payment systems integration.
-        * Integrated Unity Ads.
-        * Fixed magnet booster physics issues.
-        * Fixed issues related to misuse of concurrency.
-        * Implemented parts of tutorial system.
-        * Implemented personal offers and in-app pop-up system.
+        * Did a lot of integration for third-party SDKs for achievements, authentication, ads, payments.
+        * Fixed interesting multi-threading issues.
+        * Did some gameplay and UI programming.
 
 Developer, Itransition, 2012 - 2015
-
-Projects:
-    Building Champions Client Portal.
-    Description: portal for communication between people and their life coaches.
-    Used intensively: C#, ASP.NET MVC, EF, MS SQL Server, HTML, CSS, Javascript, AngularJS, JQuery, Jasmine
-    Done:
-        * Implemented upload of user's files to dropbox.
-        * Implemented complex forms for saving and editing user's personal information.
-        * Implemented complex logic for scheduling user's meetings with coaches.
-        * Implemented authentication, authorization.
-        * Implemented admin page.
-        * Married parts of the project that were written using JQuery and AngularJS.
-        * Deployed the project to production.
-        * Did most of the client communication.
-        * Covered critical parts of the application with tests. Both frontend and backend.
-        * Passed the project to next generation of developers.
-    
-    Paperfree Clarity.
-    Description: dashboard for monitoring OCR system parameters.
-    Used intensively: C#, Javascript, KnockoutJS, HTML, CSS, SignalR
+    Description: a couple of outsorced projects, mostly web development.
+    Used intensively: C#, ASP.NET MVC, EF, MS SQL Server, SignalR, HTML, CSS, Javascript, AngularJS, KnockoutJS, JQuery, Jasmine, GruntJS
     Used less so: WCF
     Done:
-        * Implemented dashboard for real time widgets.
-        * Implemented widgets themselves with backend for monitoring file system stats.
-        * Covered frontend with unit tests.
-
-    Zaryadye Park.
-    Description: mobile app with overview of Zaryadye Park.
-    Used intensively: GruntJS, AngularJS, Javascript, HTML, CSS
-    Done:
-        * Implemented a solution for web-view based presentation slider component in short time.
-        * Implemented automated build pipeline for the component.
+        * Did a lot of full-stack web development using different technologies.
+        * Basically lead one of the projects by myself. Did all the development and client communication.
 
 Education.
 
