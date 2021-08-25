@@ -25,13 +25,11 @@ Developer, Ubisoft, 2020 - 2021
         * Contributed to game engine by implementing some missing features required by Settings scope.
 
 Contributor, Defold Foundation, 2020
-    Description: 2D game engine for web and mobile.
+    Description: 2D game engine for web and mobile. Once the engine got open-sourced in may I started contributing.
     Used intensively: C++.
     Less so: Clojure, Java, Python.
-    Preface:
-        Once the engine got open-sourced in may I started contributing.
     Done:
-        * Small bug fixes. Can be seen on github.
+        * Bug fixes. Can be seen on github: https://github.com/defold/defold/pulls?q=is%3Apr+author%3Ahapass+
 
 Developer, Playtika, 2016 - 2020
     Description: casual poker game, daily active users: 150K and casual solitaire game, daily active users: 1.6M.
