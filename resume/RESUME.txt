@@ -1,16 +1,17 @@
 Pavel Zavoiskikh
-    Phone: +375333830439 (telegram)
-    Email: hapass@ya.ru
+    Phone: +375333830439 (telegram), +380994801922 (calls)
+    Email: pavel.zavoiskikh@gmail.com
     Github: https://github.com/hapass
     Medium: https://medium.com/@hapass
 
 Summary.
 
 Education: Bachelor's degree in Computer Science.
-Experience: 9 years of work experience (3 years of web development and 6 years in mobile game development).
+Experience: 9 years of work experience. 6 years in game development.
 Main programming languages: C#, C++.
 English: B2.
-Dream company: Small company consisting of professionals creating technically challenging games with finite set of features.
+Dream company: Small company consisting of professionals creating technically
+               challenging games with finite set of features.
 
 Career.
 
@@ -19,35 +20,40 @@ Developer, Ubisoft, 2020 - 2021
     Used intensively: C++, Anvil game engine
     Less so: C#, proprietary UI tools
     Done:
-        * Ownership of a Settings subsystem. Decided how our Settings should evolve, implemented critical improvements to the subsystem, planned and splitted tasks between team
-          members.
+        * Ownership of a Settings subsystem. Decided how our Settings should evolve,
+          implemented critical improvements to the subsystem,
+          planned and splitted tasks between team members.
         * Did some contributions to game's Benchmark.
         * Contributed to game engine by implementing some missing features required by Settings scope.
 
 Contributor, Defold Foundation, 2020
-    Description: 2D game engine for web and mobile. Once the engine got open-sourced in may I started contributing.
+    Description: 2D game engine for web and mobile.
+                 Once the engine got open-sourced in may I started contributing.
     Used intensively: C++.
     Less so: Clojure, Java, Python.
     Done:
-        * Bug fixes. Can be seen on github: https://github.com/defold/defold/pulls?q=is%3Apr+author%3Ahapass+
+        * Bug fixes. https://github.com/defold/defold/pulls?q=is%3Apr+author%3Ahapass+
 
 Developer, Playtika, 2016 - 2020
-    Description: casual poker game, daily active users: 150K and casual solitaire game, daily active users: 1.6M.
+    Description: casual poker game with 150K daily users and
+                 casual solitaire game with 1.6M daily users.
     Used intensively: C++, C#, Murl game engine, In-house game engine, Haxe, Xamarin, Autofac, 
     Less so: Shell, Gradle, Java, Objective C, Groovy, OCaml, Python, Javascript, Typescript, Angular
     Done:
-        * Had to make a haxe game, that was written for web, run on mobile. The issue was solved and as a result the game basically shared 90% of the code on all the platforms,
+        * Had to make a haxe game, that was written for web, run on mobile.
+          I solved the issue and as a result the game basically shared 90% of the code on all the platforms,
           which is the first time playtika was able to achieve this.
         * Did a lot of integration for third-party SDKs for achievements, authentication, ads, payments.
         * Did gameplay and UI programming.
-        * Implemented authentication, messaging, payment subsystems that abstracted game developers from using Playtika's back-end directly.
+        * Implemented authentication, messaging, payment subsystems,
+          that abstracted game developers from using Playtika's back-end directly.
         * Debugged haxe compiler when it was freezing during poker compilation, and found a workaround.
-        * Did game engine integrations and fixes to game engine required for our productions. Basically updating game engine and fixing issues during updates.
+        * Did game engine integrations and fixes to game engine required for our productions.
         * Implemented in-game tools for marketing team to be able to construct popups the way they want to.
         * Interviewed C++ developers for Solitaire.
 
 Developer, Synesis, 2015 - 2016
-    Description: multi-platform 2D race and shoot game with 2 different UI skins, daily active users: 15K.
+    Description: multi-platform 2D race and shoot game with 2 different UI skins.
     Used intensively: C#, .NET, Xamarin, TPL, Async-await, Autofac, In-house game engine
     Less so: Box2D
     Done:
@@ -57,7 +63,8 @@ Developer, Synesis, 2015 - 2016
 
 Developer, Itransition, 2012 - 2015
     Description: a couple of outsorced projects, mostly web development.
-    Used intensively: C#, ASP.NET MVC, EF, MS SQL Server, SignalR, HTML, CSS, Javascript, AngularJS, KnockoutJS, JQuery, Jasmine, GruntJS
+    Used intensively: C#, ASP.NET MVC, EF, MS SQL Server, SignalR, HTML, CSS, Javascript,
+                      AngularJS, KnockoutJS, JQuery, Jasmine, GruntJS
     Used less so: WCF
     Done:
         * Did a lot of full-stack web development using different technologies.
