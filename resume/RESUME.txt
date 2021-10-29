@@ -3,10 +3,11 @@ Pavel Zavoiskikh
     Email: pavel.zavoiskikh@gmail.com
     Github: https://github.com/hapass
     Medium: https://medium.com/@hapass
+    Coursera: https://www.coursera.org/user/a6e5df5240aa9826c158a7d1c76e0e9f
 
 Summary.
 
-Education: Bachelor's degree in Computer Science.
+Education: Bachelor's degree in Computer Science. BSUIR, 2009 - 2014
 Experience: 9 years of work experience. 6 years in game development.
 Main programming languages: C#, C++.
 English: B2.
@@ -21,9 +22,9 @@ Developer, Ubisoft, 2020 - 2021
     Less so: C#, proprietary UI tools
     Done:
         * Ownership of a Settings subsystem. Decided how our Settings should evolve,
-          implemented critical improvements to the subsystem,
+          implemented improvements to the subsystem,
           planned and splitted tasks between team members.
-        * Did some contributions to game's Benchmark.
+        * Did some contributions to game's Benchmark code.
         * Contributed to game engine by implementing some missing features required by Settings scope.
 
 Contributor, Defold Foundation, 2020
@@ -32,7 +33,7 @@ Contributor, Defold Foundation, 2020
     Used intensively: C++.
     Less so: Clojure, Java, Python.
     Done:
-        * Bug fixes. https://github.com/defold/defold/pulls?q=is%3Apr+author%3Ahapass+
+        * Bug fixes in engine and editor. https://github.com/defold/defold/pulls?q=is%3Apr+author%3Ahapass+
 
 Developer, Playtika, 2016 - 2020
     Description: casual poker game with 150K daily users and
@@ -48,7 +49,7 @@ Developer, Playtika, 2016 - 2020
         * Implemented authentication, messaging, payment subsystems,
           that abstracted game developers from using Playtika's back-end directly.
         * Debugged haxe compiler when it was freezing during poker compilation, and found a workaround.
-        * Did game engine integrations and fixes to game engine required for our productions.
+        * Did fixes to game engine required for our games.
         * Implemented in-game tools for marketing team to be able to construct popups the way they want to.
         * Interviewed C++ developers for Solitaire.
 
@@ -70,19 +71,10 @@ Developer, Itransition, 2012 - 2015
         * Did a lot of full-stack web development using different technologies.
         * Basically lead one of the projects by myself. Did all the development and client communication.
 
-Education.
+Pet projects.
 
-Computer Science, BSUIR, 2009 - 2014
-    Used intensively: C#, .NET, XNA, Monogame
-    Less so: C, C++, Scala, Java
-
-    More or less notable complete projects:
-        C: simple http server.
-        C++: DES, RSA cipher implementation.
-        C#, .NET, XNA: 2D space shooter game.
-
-Free time.
-
-Writing code on github: https://github.com/hapass
-Writing blog on medium: https://medium.com/@hapass
-Learning stuff on coursera: https://www.coursera.org/user/a6e5df5240aa9826c158a7d1c76e0e9f
+    * Implemented a software rasterizer. It can load and display a 3D model with phong lighting.
+    * Implemented a 2D game with simplistic graphics in raw WebGL for a game jam. 
+      Created a little audio synthesizer using WebAudio to create and play sounds for this game.
+    * Implemented gameplay for my clone of PopCap's rocket mania game in Unity.
+      Also ported the same game to PixiJS.
