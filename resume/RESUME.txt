@@ -16,7 +16,7 @@ Dream company: Small company consisting of professionals creating technically
 
 Career.
 
-Developer, Ubisoft, 2020 - 2021
+Developer, Ubisoft, 2020 - 2022
     Description: Skull and Bones game development
     Used intensively: C++, Anvil game engine
     Less so: C#, proprietary UI tools
@@ -24,10 +24,11 @@ Developer, Ubisoft, 2020 - 2021
         * Ownership of a Settings subsystem. Decided how our Settings should evolve,
           implemented improvements to the subsystem,
           planned and splitted tasks between team members.
+        * Fixed settings save system problems to be able to add and remove settings without loosing saves.
         * Did some contributions to game's Benchmark code.
         * Contributed to game engine by implementing some missing features required by Settings scope. 
-          Fixed issues with graphics settings, implemented switching between audio devices,
-          fixed issues in localization system.
+          Fixed issues with graphics settings, added monitor abstraction to Ubisoft's proprietary graphics API,
+          implemented switching between audio devices, fixed issues in localization system.
         * Mentoring a junior generalist programmer and two graphics interns.
 
 Contributor, Defold Foundation, 2020
