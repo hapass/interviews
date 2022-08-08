@@ -1,5 +1,5 @@
 Pavel Zavoiskikh
-    Phone: +380994801922 (calls, telegram)
+    Phone: +380994801922 (telegram), +995599720377 (calls)
     Email: pavel.zavoiskikh@gmail.com
     Github: https://github.com/hapass
     Medium: https://medium.com/@hapass
@@ -8,8 +8,8 @@ Pavel Zavoiskikh
 Summary.
 
 Education: Bachelor's degree in Computer Science. BSUIR, 2009 - 2014
-Experience: 9 years of work experience. 6 years in game development.
-Main programming languages: C#, C++.
+Experience: 10 years of programming experience. 7 years in game development.
+Main programming languages: C++, C#.
 English: B2.
 Dream company: Small company consisting of professionals creating technically
                challenging games with finite set of features.
@@ -21,19 +21,16 @@ Developer, Ubisoft, 2020 - 2022
     Used intensively: C++, Anvil game engine
     Less so: C#, proprietary UI tools
     Done:
-        * Ownership of a Settings subsystem. Decided how our Settings should evolve,
-          implemented improvements to the subsystem,
-          planned and splitted tasks between team members.
-        * Fixed settings save system problems to be able to add and remove settings without loosing saves.
-        * Did some contributions to game's Benchmark code.
-        * Contributed to game engine by implementing some missing features required by Settings scope. 
-          Fixed issues with graphics settings, added monitor abstraction to Ubisoft's proprietary graphics API,
-          implemented switching between audio devices, fixed issues in localization system.
-        * Mentoring a junior generalist programmer and two graphics interns.
+        * Owned game settings system. Decided how our settings should evolve,
+          implemented improvements to the subsystem, planned and splitted tasks between team members.
+        * Contributed to game engine by implementing some missing features required by settings scope. 
+        * Fixed PC-specific issues with graphics. Added monitor abstraction to Ubisoft's proprietary graphics API.
+        * Fixed issues in localization system.
+        * Fixed issues with save system.
+        * Mentored a junior generalist programmer and two junior graphics programmers.
 
 Contributor, Defold Foundation, 2020
-    Description: 2D game engine for web and mobile.
-                 Once the engine got open-sourced in may I started contributing.
+    Description: 2D game engine for web and mobile
     Used intensively: C++.
     Less so: Clojure, Java, Python.
     Done:
@@ -42,7 +39,7 @@ Contributor, Defold Foundation, 2020
 Developer, Playtika, 2016 - 2020
     Description: casual poker game with 150K daily users - Poker Heat
                  casual solitaire game with 1.6M daily users - Solitaire Grand Harvest
-    Used intensively: C++, C#, Murl game engine, In-house game engine, Haxe, Xamarin, Autofac, 
+    Used intensively: C++, C#, Murl game engine, In-house game engine, Haxe, Xamarin, Autofac 
     Less so: Shell, Gradle, Java, Objective C, Groovy, OCaml, Python, Javascript, Typescript, Angular
     Done:
         * Had to make a haxe game, that was written for web, run on mobile.
@@ -80,6 +77,6 @@ Pet projects.
     * Implemented a software rasterizer. It can load and display a 3D model with phong lighting.
     * Implemented a DX12 reference to compare the result of my software rasterizer to hardware rasterizer.
     * Implemented a 2D game with simplistic graphics in raw WebGL for a game jam. 
-      Created a little audio synthesizer using WebAudio to create and play sounds for this game.
+      Implemented a little audio synthesizer using WebAudio to create and play sounds for this game.
     * Implemented gameplay for my clone of PopCap's rocket mania game in Unity.
       Also ported the same game to PixiJS.
