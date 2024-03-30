@@ -1,45 +1,50 @@
 Pavel Zavoiskikh
-    Phone: +380994801922 (telegram), +995599720377 (calls)
+    Location: Sofia, Bulgaria
+    Citizenship: Belarus
+    Phone: +380994801922 (telegram), +995599720377 (calls), +359882179577 (calls)
     Email: pavel.zavoiskikh@gmail.com
     Github: https://github.com/hapass
     Medium: https://medium.com/@hapass
     Coursera: https://www.coursera.org/user/a6e5df5240aa9826c158a7d1c76e0e9f
+    Hackerrank: https://www.hackerrank.com/profile/hapass
 
 Summary.
 
 Education: Bachelor's degree in Computer Science. BSUIR, 2009 - 2014
-Experience: 10 years of programming experience. 7 years in game development.
+Experience: 10+ years of programming experience.
 Main programming languages: C++, C#.
 English: B2.
-Dream company: Small company consisting of professionals creating technically
-               challenging games with finite set of features.
 
 Career.
 
-Developer, Ubisoft, 2020 - 2022
-    Description: Skull and Bones game development
+Developer, Ubisoft, 2020 - 2023
+    Projects: Skull and Bones
     Used intensively: C++, Anvil game engine
     Less so: C#, proprietary UI tools
     Done:
-        * Owned game settings system. Decided how our settings should evolve,
+        * Owned game's settings system. Decided how our settings should evolve,
           implemented improvements to the subsystem, planned and splitted tasks between team members.
         * Contributed to game engine by implementing some missing features required by settings scope. 
         * Fixed PC-specific issues with graphics. Added monitor abstraction to Ubisoft's proprietary graphics API.
         * Fixed issues in localization system.
-        * Fixed issues with save system.
-        * Mentored a junior generalist programmer and two junior graphics programmers.
+        * Fixed issues in save system.
+	* Implemented a flexible save system for our settings.
+        * Lead Tobii eyetracker scope. Contributed to implementation of Clean UI feature.
+        * Mentored a junior generalist programmer, two junior graphics programmers and one gameplay programmer.
+	* Was responsible for performance of Skull and Bones on PC. Monitored performance and analyzed bottlenecks.
+	* Fixed various performance and graphics issues before release: corrupted textures, streaming issues, long loading times.
 
 Contributor, Defold Foundation, 2020
-    Description: 2D game engine for web and mobile
+    Projects: 2D game engine for web and mobile
     Used intensively: C++.
     Less so: Clojure, Java, Python.
     Done:
         * Bug fixes in engine and editor. https://github.com/defold/defold/pulls?q=is%3Apr+author%3Ahapass+
 
 Developer, Playtika, 2016 - 2020
-    Description: casual poker game with 150K daily users - Poker Heat
-                 casual solitaire game with 1.6M daily users - Solitaire Grand Harvest
-    Used intensively: C++, C#, Murl game engine, In-house game engine, Haxe, Xamarin, Autofac 
+    Projects: casual poker game with 150K daily users - Poker Heat
+              casual solitaire game with 1.6M daily users - Solitaire Grand Harvest
+    Used intensively: C++, C#, Haxe, Murl game engine, In-house game engine, Xamarin, Autofac 
     Less so: Shell, Gradle, Java, Objective C, Groovy, OCaml, Python, Javascript, Typescript, Angular
     Done:
         * Had to make a haxe game, that was written for web, run on mobile.
@@ -55,7 +60,7 @@ Developer, Playtika, 2016 - 2020
         * Interviewed C++ developers for Solitaire.
 
 Developer, Synesis, 2015 - 2016
-    Description: multi-platform 2D race and shoot game with 2 different UI skins: Wild Ride/Rude Rider
+    Projects: multi-platform 2D race and shoot game with 2 different UI skins: Wild Ride/Rude Rider
     Used intensively: C#, .NET, Xamarin, TPL, Async-await, Autofac, In-house game engine
     Less so: Box2D
     Done:
@@ -64,19 +69,21 @@ Developer, Synesis, 2015 - 2016
         * Did some gameplay and UI programming.
 
 Developer, Itransition, 2012 - 2015
-    Description: a couple of outsorced projects, mostly web development.
+    Projects: a couple of outsorced projects, mostly web development.
     Used intensively: C#, ASP.NET MVC, EF, MS SQL Server, SignalR, HTML, CSS, Javascript,
                       AngularJS, KnockoutJS, JQuery, Jasmine, GruntJS
     Used less so: WCF
     Done:
         * Did a lot of full-stack web development using different technologies.
+        * Implemented a component for showing slides in js, that was integrated into mobile apps.
         * Basically lead one of the projects by myself. Did all the development and client communication.
 
 Pet projects.
 
     * Implemented a software rasterizer. It can load and display a 3D model with phong lighting.
-    * Implemented a DX12 reference to compare the result of my software rasterizer to hardware rasterizer.
+      Implemented a DX12 reference for the same scene to compare the result of my software rasterizer to hardware rasterizer.
     * Implemented a 2D game with simplistic graphics in raw WebGL for a game jam. 
       Implemented a little audio synthesizer using WebAudio to create and play sounds for this game.
-    * Implemented gameplay for my clone of PopCap's rocket mania game in Unity.
+    * Implemented gameplay for my clone of PopCap's "Rocket mania" game in Unity.
       Also ported the same game to PixiJS.
+    * Implemented a clone of "Corporate salmon" game in Unity.
